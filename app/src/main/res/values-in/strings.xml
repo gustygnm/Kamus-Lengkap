@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kamus Lengkap</string>
+    <string name="rincian">Rincian</string>
+    <string name="terjemahan">Terjemahan :</string>
+    <string name="first_run">First Run</string>
+    <string name="telusuri_kata">Telusuri kata</string>
+    <string name="staKata">Kata</string>
+    <string name="stTerjemahan">Terjemahan</string>
+    <string name="stIdEn">ID-EN</string>
+    <string name="stEnId">EN-ID</string>
+    <string name="message_exit">Tekan lagi untuk keluar!</string>
+    <string name="memuad_data">Memuat Data</string>
+    <string name="mohon_tunggu">Mohon Tunggu</string>
+    <string name="about">Tentang</string>
+    <string name="about_application">Tentang Aplikasi</string>
+    <string name="copyright">Copyright © 2019. Gusti Ngurah Mertayasa</string>
+    <string name="application_name">Nama aplikasi</string>
+    <string name="version">Versi</string>
+    <string name="update">Pembaharuan</string>
+    <string name="updateV">Januari 2019</string>
+    <string name="versi_app">1.1</string>
+    <string name="pilih_bahasa">Pilih bahasa</string>
+    <string name="txt_bahasa">Bahasa</string>
+    <string name="information">Informasi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="share">Bagikan</string>
+</resources>
