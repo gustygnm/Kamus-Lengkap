@@ -1,6 +1,6 @@
 # Kamus-Lengkap
 
-##Screenshoot:
+## Screenshoot:
 1. Splash
 
 ![Image](https://i.ibb.co/0c90d8G/photo-2019-05-06-07-39-38.jpg)
