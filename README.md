@@ -1,6 +1,9 @@
 # Kamus-Lengkap
 
 ## Screenshoot:
+
+berikut adalah tampilan dari aplikasi kamus...
+
 1. Splash Screen
 
 ![Image](https://i.ibb.co/0c90d8G/photo-2019-05-06-07-39-38.jpg)
@@ -20,3 +23,5 @@
 5. Setting
 
 ![Image5](https://i.ibb.co/3sRXGG7/photo-2019-05-06-07-39-54.jpg)
+
+## Thanks for contribute and enjoy the hacking !!!
